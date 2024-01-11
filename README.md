@@ -1,4 +1,4 @@
-# 🖥️ Number guess Game
+# 1. Number guess Game
 ![Number guess Game_image](https://github.com/hyjang14/js_project/assets/126192446/c9e0df4f-cfea-4484-b794-8117964191d8)
 
 ## 구현한 기능 설명
