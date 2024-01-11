@@ -1,5 +1,5 @@
 # Number guess Game
-![image](https://github.com/hyjang14/Computer-Escape/assets/126192446/37f1d871-a5c6-46cf-b93c-fce94583a7d8)
+![Number guess Game_image](https://github.com/hyjang14/js_project/assets/126192446/c9e0df4f-cfea-4484-b794-8117964191d8)
 
 ### 🎮 구현한 기능 설명 🎮
 1. 랜덤번호 지정
