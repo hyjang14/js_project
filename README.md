@@ -13,6 +13,6 @@
 9. 유저가 이미 입력한 숫자를 또 입력하면 알려준다. 기회를 깎지 않는다.
 
 ## 사용한 기술
-HTML
-CSS
-Vanila Javascript
+- HTML
+- CSS
+- Vanila Javascript
