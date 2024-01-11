@@ -1,7 +1,7 @@
 # Number guess Game
 ![Number guess Game_image](https://github.com/hyjang14/js_project/assets/126192446/c9e0df4f-cfea-4484-b794-8117964191d8)
 
-### 구현한 기능 설명
+## 구현한 기능 설명
 1. 랜덤번호 지정
 2. 유저가 번호를 입력한 후 go 라는 버튼을 누른다.
 3. 만약에 유저가 랜덤번호를 맞추면, 정답입니다! 띄우기.
