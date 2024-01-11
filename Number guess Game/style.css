@@ -1,0 +1,55 @@
+body {
+    background-size: contain;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "East Sea Dokdo", cursive;
+    background-image: url(image/number.jpg);
+}
+.container {
+    border: 10px solid palevioletred;
+    border-radius: 20px;
+    text-align: center;
+    background-color: pink;
+    padding: 50px;
+}
+
+.button-style {
+    height: 30px;
+    width: 50px;
+    margin-top: 10px;
+    border-radius: 50px;
+    font-size: 13pt;
+    font-weight: bold;
+}
+
+.button-style2 {
+    height: 30px;
+    width: 70px;
+    margin-top: 10px;
+    border-radius: 50px;
+    font-size: 13pt;
+    font-weight: bold;
+}
+
+.input-control {
+    height: 20px;
+    width: 250px;
+    font-size: 13pt;
+    margin-right: 20px;
+    text-align: center;
+    font-family: "East Sea Dokdo", cursive;
+}
+.chance {
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+.result {
+    font-size: 16pt;
+    font-weight: bold;
+    padding-bottom: 20px;
+    color:white;
+}
