@@ -1,5 +1,5 @@
 # 1. Number guess Game
-![Number guess Game_image](https://github.com/hyjang14/js_project/assets/126192446/926cb6ce-cb0e-45c4-a542-b7bfa370412b)
+![Number guess Game_image](https://github.com/hyjang14/js_project/assets/126192446/203c291a-d5d2-4003-87dd-7288ca3dfc91)
 
 ## 구현 기능
 1. 랜덤번호 지정
