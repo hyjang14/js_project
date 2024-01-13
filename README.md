@@ -13,9 +13,9 @@
 9. 유저가 이미 입력한 숫자를 또 입력하면 알려준다. 기회를 깎지 않는다.
 
 # 2. To do List
-![1](https://github.com/hyjang14/js_project/assets/126192446/aba5872b-b805-4a4b-9f28-3e35e8d7504b)![2](https://github.com/hyjang14/js_project/assets/126192446/75c66d62-042f-465d-b1e4-165ac23a0fff)![3](https://github.com/hyjang14/js_project/assets/126192446/5a3d2814-9f78-404f-b690-45b1fc49ed57)
+![1](https://github.com/hyjang14/js_project/assets/126192446/f5579cba-4190-45ee-8543-8f8e10ed71b5)![2](https://github.com/hyjang14/js_project/assets/126192446/6f2bc460-a3c8-4b84-9e25-14a0b99652ca)![3](https://github.com/hyjang14/js_project/assets/126192446/f1cac505-3cec-4101-8e94-b33d7c36df5b)
 
-## 구현한 기능 설명
+## 구현 기능
 1. 유저가 값을 입력한다.
 2. + 버튼을 누르면 할 일이 추가된다.
 3. delete 버튼을 누르면 할 일이 삭제된다.
