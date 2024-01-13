@@ -1,0 +1,94 @@
+body {
+    margin: 0; /*기본 속성이 margin 8px */
+    background-image: url("image/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.container {
+    background-color: white;
+    min-height: 100vh; /*view height: 보는 화면이 높이만큼*/
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    padding: 30px;
+}
+.input-area {
+    position: relative;
+}
+#task-input {
+    transition: padding-top 0.2s ease, margin-top 0.2s ease;
+    width: 80%;
+    border: none;
+    border: 1px solid green;
+}
+#add-button {
+    background-color: lightgreen;
+    border: 1px solid lightgreen;
+}
+.task-area {
+    border: 1px solid lightgrey
+}
+.task-tabs {
+    display: flex; /* div들 가로로 설정*/
+    border-bottom: 1px solid lightgray;
+    position: relative; /* 밑에 absolute */
+}
+.task-tabs div{
+    padding: 1em;
+}
+/* id로 줬으므로 #쓴다 */
+#under-line {
+    height: 4px;
+    background-color: green;
+    position: absolute; /* task-tabs가 기준점 */
+    width: 52px;
+    left: 0px;
+    top: 52px;
+    padding: 0px;
+    transition: 0.5s;
+}
+.task {
+    display: flex; /* Check, Delete 버튼 가로로 배치 */
+    justify-content: space-between; /* 버튼이랑 내용 사이 간격 벌리기 */
+    padding: 1em;
+}
+.task-done {
+    text-decoration: line-through;
+}
+
+.task-tabs div {
+    cursor: pointer;
+}
+
+.button-box {
+    display: flex;
+}
+
+.button-box button {
+    height: 100%;
+    border: none;
+    width: 5em;
+    margin: 0;
+    background-color: white;
+    transition: 0.5s;
+}
+
+.button-box button:first-child {
+    color: darkgreen
+}
+
+.button-box button:nth-child(2) {
+    color: red;
+}
+
+.button-box button :active {
+    position: relative;
+    top: 2px;
+}
+
+.button-box button:first-child:hover {
+    background-color: greenyellow;
+}
+
+.button-box button:nth-child(2):hover {
+    background-color: rgb(255, 0, 0, 0.3);
+}
