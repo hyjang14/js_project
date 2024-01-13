@@ -13,7 +13,7 @@
 9. 유저가 이미 입력한 숫자를 또 입력하면 알려준다. 기회를 깎지 않는다.
 
 # 2. To do List
-![1](https://github.com/hyjang14/js_project/assets/126192446/f5579cba-4190-45ee-8543-8f8e10ed71b5)![2](https://github.com/hyjang14/js_project/assets/126192446/6f2bc460-a3c8-4b84-9e25-14a0b99652ca)![3](https://github.com/hyjang14/js_project/assets/126192446/f1cac505-3cec-4101-8e94-b33d7c36df5b)
+![1](https://github.com/hyjang14/js_project/assets/126192446/6c33a525-6165-42ca-9c8a-9e6137e3fa4f)![2](https://github.com/hyjang14/js_project/assets/126192446/5b40d49c-729a-4762-bf78-d561537cb3a0)![3](https://github.com/hyjang14/js_project/assets/126192446/39c4790c-97bd-4d2b-a5f6-09dc54e25a16)
 
 ## 구현 기능
 1. 유저가 값을 입력한다.
