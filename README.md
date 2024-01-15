@@ -16,7 +16,7 @@
 ![1](https://github.com/hyjang14/js_project/assets/126192446/6c33a525-6165-42ca-9c8a-9e6137e3fa4f)![2](https://github.com/hyjang14/js_project/assets/126192446/5b40d49c-729a-4762-bf78-d561537cb3a0)![3](https://github.com/hyjang14/js_project/assets/126192446/39c4790c-97bd-4d2b-a5f6-09dc54e25a16)
 
 ## 구현 기능
-1. 유저가 값을 입력한다.
+1. 유저가 할 일을 입력한다.
 2. (+) 버튼을 누르면 할 일이 추가된다.
 3. delete 버튼을 누르면 할 일이 삭제된다.
 4. check 버튼을 누르면 할 일이 끝나면서 밑줄이 생긴다.
