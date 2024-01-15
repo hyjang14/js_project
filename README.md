@@ -10,7 +10,7 @@
 6. Reset! 버튼을 누르면 게임이 리셋된다.
 7. 5번의 기회를 다 쓰면 게임이 끝난다.
 8. 유저가 1~100 범위 밖의 숫자를 입력하면 알려준다. 이 경우에는 기회를 깎지 않는다.
-9. 유저가 이미 입력한 숫자를 또 입력하면 알려준다. 기회를 깎지 않는다.
+9. 유저가 이미 입력한 숫자를 또 입력하면 알려준다. 이 경우에도 기회를 깎지 않는다.
 
 # 2. To do List
 ![1](https://github.com/hyjang14/js_project/assets/126192446/6c33a525-6165-42ca-9c8a-9e6137e3fa4f)![2](https://github.com/hyjang14/js_project/assets/126192446/5b40d49c-729a-4762-bf78-d561537cb3a0)![3](https://github.com/hyjang14/js_project/assets/126192446/39c4790c-97bd-4d2b-a5f6-09dc54e25a16)
